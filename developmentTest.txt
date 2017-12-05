@@ -1,0 +1,23 @@
+
+[0m[0m
+[0m  Reservation Note API: Note Detail[0m
+  [32m  √[0m[90m Get 400[0m[31m (732ms)[0m
+  [32m  √[0m[90m Get 404[0m[31m (514ms)[0m
+  [32m  √[0m[90m Get 406[0m[31m (443ms)[0m
+  [32m  √[0m[90m Get 200 Schema Validation[0m[31m (694ms)[0m
+  [32m  √[0m[90m Get 200[0m[31m (745ms)[0m
+
+[0m  Reservation Note API: Notes List[0m
+  [32m  √[0m[90m Get 400[0m[31m (788ms)[0m
+  [32m  √[0m[90m Get 404[0m[31m (429ms)[0m
+  [32m  √[0m[90m Get 406[0m[31m (430ms)[0m
+  [32m  √[0m[90m Get 200 Schema Validation[0m[31m (443ms)[0m
+  [32m  √[0m[90m Get 200[0m[31m (436ms)[0m
+
+[0m  Integration Reservation Note API:[0m
+  [32m  √[0m[90m Get 200[0m[31m (437ms)[0m
+  [32m  √[0m[90m E2E Test[0m[31m (2690ms)[0m
+
+
+[92m [0m[32m 12 passing[0m[90m (9s)[0m
+

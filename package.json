@@ -1,0 +1,17 @@
+{
+  "name": "chakram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "license": "",
+  "author": "Pavan Navule",
+  "devDependencies": {
+    "chakram": "^1.4.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^3.0.0"
+  },
+  "scripts": {
+    "test": "grunt mochaTest:prod"
+  }
+}
