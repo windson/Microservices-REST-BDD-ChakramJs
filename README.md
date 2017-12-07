@@ -15,7 +15,7 @@ This Project uses
 
 ### What is this repository for? ###
 
-Chakram BDD framework for innTerface REST APIs
+Chakram BDD framework for Microservices, REST APIs
 
 ### How do I get set up? ###
 Type the following commands in the root of project.
